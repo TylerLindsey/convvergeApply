@@ -1,0 +1,11 @@
+@import '_color-theme';
+@import '_animation';
+
+body{
+    background-color: red;
+}
+
+h1{
+    color: $yellow-theme;
+    /* color: yellow; */
+}
